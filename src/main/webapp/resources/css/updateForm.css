@@ -1,0 +1,71 @@
+@charset "UTF-8";
+*{
+	text-decoration: none;
+	font-style: 나눔고딕;
+	color : gray;
+}
+#update_top_title{
+	text-align: center;
+	color : gray;
+	font-size: 35pt;
+	margin: 20px;
+	padding: 50px;
+	background-color:  #FDD692;
+}
+#update_middle{
+	 align-content: center;
+	 text-align: center;
+}
+#update_table{
+	font-size: 18pt;
+	width: 60%;
+	height: 200px;
+	margin: auto;
+	border-collapse: collapse;
+}
+a{
+	color: gray;
+}
+#update_bottom{
+	position : relative;
+	left : 300px;
+	text-align : center;
+	width : 300px;
+	height : 50px;
+	font-size: 15pt; 
+}
+table,tr,td{
+	/* border: 1px solid gray; */
+}
+.writer, .title , .content , #title, #writer, #password{
+	height: 50px;
+	border-bottom: 1px dotted gray;
+}
+.content_two, #content_two{
+	height: 500px;
+}
+tr, td{
+	border-bottom: 1px dotted gray;
+}
+input{
+	font-size: 18pt;
+	color: gray;
+	border: 1px dotted gray;
+}
+textarea{
+	font-size: 18pt;
+	color: gray;
+	resize: none;
+	border: 1px dotted gray;
+}
+
+
+
+
+
+
+
+
+
+
+ 
